@@ -1,10 +1,8 @@
 package composition.implementation.model;
 
-import composition.Component;
-
 import java.awt.*;
 
-public interface Shape extends Component {
+public interface Shape {
     int getX();
     int getY();
     int getWidth();
