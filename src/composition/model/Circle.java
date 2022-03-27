@@ -1,4 +1,4 @@
-package composition.implementation.model;
+package composition.model;
 
 import java.awt.*;
 

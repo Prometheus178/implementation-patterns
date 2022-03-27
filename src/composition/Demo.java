@@ -1,9 +1,9 @@
-package composition.implementation;
+package composition;
 
-import composition.implementation.model.Circle;
-import composition.implementation.model.Rectangle;
-import composition.implementation.model.CompoundShape;
-import composition.implementation.model.Dot;
+import composition.model.Circle;
+import composition.model.Rectangle;
+import composition.model.CompoundShape;
+import composition.model.Dot;
 
 import java.awt.*;
 

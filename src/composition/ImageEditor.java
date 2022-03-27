@@ -1,7 +1,7 @@
-package composition.implementation;
+package composition;
 
-import composition.implementation.model.CompoundShape;
-import composition.implementation.model.Shape;
+import composition.model.CompoundShape;
+import composition.model.Shape;
 
 import javax.swing.*;
 import javax.swing.border.Border;
