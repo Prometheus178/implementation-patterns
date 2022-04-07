@@ -1,9 +1,9 @@
-package ctructure.adapter;
+package structure.adapter;
 
-import ctructure.adapter.adapters.SquarePegAdapter;
-import ctructure.adapter.round.RoundHole;
-import ctructure.adapter.round.RoundPeg;
-import ctructure.adapter.square.SquarePeg;
+import structure.adapter.adapters.SquarePegAdapter;
+import structure.adapter.round.RoundHole;
+import structure.adapter.round.RoundPeg;
+import structure.adapter.square.SquarePeg;
 
 public class Demo {
 

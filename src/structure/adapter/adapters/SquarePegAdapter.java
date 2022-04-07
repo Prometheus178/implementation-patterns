@@ -1,7 +1,7 @@
-package ctructure.adapter.adapters;
+package structure.adapter.adapters;
 
-import ctructure.adapter.round.RoundPeg;
-import ctructure.adapter.square.SquarePeg;
+import structure.adapter.round.RoundPeg;
+import structure.adapter.square.SquarePeg;
 
 public class SquarePegAdapter extends RoundPeg {
     private SquarePeg squarePeg;

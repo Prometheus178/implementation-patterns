@@ -1,4 +1,4 @@
-package ctructure.adapter.square;
+package structure.adapter.square;
 
 public class SquarePeg {
 

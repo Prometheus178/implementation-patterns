@@ -1,4 +1,4 @@
-package ctructure.adapter.round;
+package structure.adapter.round;
 
 public class RoundHole {
 
