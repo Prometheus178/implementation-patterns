@@ -1,7 +1,7 @@
-package crearter.composition;
+package structure.composition;
 
-import crearter.composition.model.CompoundShape;
-import crearter.composition.model.Shape;
+import structure.composition.model.CompoundShape;
+import structure.composition.model.Shape;
 
 import javax.swing.*;
 import javax.swing.border.Border;

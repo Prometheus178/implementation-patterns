@@ -1,4 +1,4 @@
-package crearter.model;
+package behavior.strategy;
 
 public class Navigator {
 }

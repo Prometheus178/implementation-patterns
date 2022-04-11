@@ -1,4 +1,4 @@
-package crearter.model;
+package behavior.strategy;
 
 /**
  * Очень наивная реализация кредитной карты.

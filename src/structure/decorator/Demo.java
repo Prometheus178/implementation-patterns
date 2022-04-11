@@ -4,9 +4,9 @@ public class Demo {
 
     public static void main(String[] args) {
         String salaryRecords = "Name,Salary\nJohn Smith,100000\nSteven Jobs,912000";
-        DataSourceDecorator encoded = new CompressionDecorator(
-                new EncryptionDecorator(
-                        new FileDataSource("out/OutputDemo.txt")));
+        FileDataSource fileDataSource = new FileDataSource("out/OutputDemo.txt");
+        EncryptionDecorator encryptionDecorator = new EncryptionDecorator(fileDataSource);
+        DataSourceDecorator encoded = new CompressionDecorator(encryptionDecorator);
         encoded.writeData(salaryRecords);
         DataSource plain = new FileDataSource("out/OutputDemo.txt");
         System.out.println("- Input ----------------");

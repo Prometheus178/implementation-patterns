@@ -1,4 +1,4 @@
-package crearter.model;
+package behavior.strategy;
 
 import java.io.BufferedReader;
 import java.io.IOException;

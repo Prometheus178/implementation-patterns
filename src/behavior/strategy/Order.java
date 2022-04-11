@@ -1,4 +1,4 @@
-package crearter.model;
+package behavior.strategy;
 
 /**
  * Класс заказа. Ничего не знает о том каким способом (стратегией) будет

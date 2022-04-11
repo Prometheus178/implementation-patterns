@@ -1,9 +1,9 @@
-package crearter.composition;
+package structure.composition;
 
-import crearter.composition.model.Circle;
-import crearter.composition.model.Rectangle;
-import crearter.composition.model.CompoundShape;
-import crearter.composition.model.Dot;
+import structure.composition.model.Circle;
+import structure.composition.model.Rectangle;
+import structure.composition.model.CompoundShape;
+import structure.composition.model.Dot;
 
 import java.awt.*;
 

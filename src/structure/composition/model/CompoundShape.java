@@ -1,4 +1,4 @@
-package crearter.composition.model;
+package structure.composition.model;
 
 import java.awt.*;
 import java.util.ArrayList;
